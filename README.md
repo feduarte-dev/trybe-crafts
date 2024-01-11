@@ -1,4 +1,4 @@
-# README: Products List
+# README: Trybe Crafts
 
 <img src="assets/trybe-crafts.png" alt="page" title="page" width=100%>
 
