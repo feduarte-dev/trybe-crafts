@@ -42,7 +42,7 @@ describe('05 - orderRequest deve retornar', () => {
     customerName: 'John Doe',
     customerEmail: 'johndoe@example.com',
     items: itemsWithStock,
-    status: 'pendente',
+    status: 'enviado',
   };
 
   it('uma string', () => {
