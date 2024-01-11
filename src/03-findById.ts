@@ -1,4 +1,4 @@
-import { Product } from './types/Product';
+import { Product } from './02-insertProducts';
 
 const products = [
   {
